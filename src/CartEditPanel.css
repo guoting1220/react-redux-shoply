@@ -1,0 +1,15 @@
+.CartEditPanel {
+  width: 6rem;
+  display: inline-block;
+}
+
+.CartEditPanel i {
+  color: #61B589;
+  cursor: pointer;
+}
+
+.CartEditPanel i:hover {
+  color: #159444;
+}
+
+

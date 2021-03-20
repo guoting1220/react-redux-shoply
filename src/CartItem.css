@@ -1,0 +1,17 @@
+.CartItem img {
+  width: 8vw;
+  margin: 0 2rem;
+}
+
+.CartItem-info {
+  display: inline-block;
+  
+}
+
+.CartItem-info-name {
+  font-weight: bold;
+}
+
+.CartItem-info p {
+  margin: 0.4rem;
+}

@@ -1,0 +1,29 @@
+.NavBar nav{
+  background-color: #6A6C6A;
+  color: white;
+  display: flex;
+  padding: 0.6rem;
+}
+
+.NavBar a{
+  display: inline-block;
+  color: white;
+  margin: auto 2rem;
+}
+
+.NavBar-active {
+   font-weight: bold;
+}
+
+#brand {
+  display: inline-block;
+  color:#C7C579;
+  font-size:1.5rem;
+  font-weight: bold;
+  margin-left: 5%;
+}
+
+.NavBar-NavItems {
+  width: 90%;  
+  text-align: right;
+}

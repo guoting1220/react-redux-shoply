@@ -1,0 +1,10 @@
+.ProductDetail {
+  width : 60%;
+  margin: 3rem auto;
+}
+
+.ProductDetail img {
+  display: block;  
+  margin: 2rem auto;
+  height: 30vh;
+}
